@@ -1,0 +1,13 @@
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\bin\Debug\netcoreapp3.1\week5-lab5.exe
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\bin\Debug\netcoreapp3.1\week5-lab5.deps.json
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\bin\Debug\netcoreapp3.1\week5-lab5.runtimeconfig.json
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\bin\Debug\netcoreapp3.1\week5-lab5.runtimeconfig.dev.json
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\bin\Debug\netcoreapp3.1\week5-lab5.dll
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\bin\Debug\netcoreapp3.1\week5-lab5.pdb
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\obj\Debug\netcoreapp3.1\week5-lab5.csprojAssemblyReference.cache
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\obj\Debug\netcoreapp3.1\week5-lab5.AssemblyInfoInputs.cache
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\obj\Debug\netcoreapp3.1\week5-lab5.AssemblyInfo.cs
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\obj\Debug\netcoreapp3.1\week5-lab5.csproj.CoreCompileInputs.cache
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\obj\Debug\netcoreapp3.1\week5-lab5.dll
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\obj\Debug\netcoreapp3.1\week5-lab5.pdb
+D:\semster2\data strcture c#\Labs\lab-week05\week5-lab5\week5-lab5\obj\Debug\netcoreapp3.1\week5-lab5.genruntimeconfig.cache
