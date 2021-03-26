@@ -1,0 +1,13 @@
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\bin\Debug\netcoreapp3.1\Assignment3-N01379722-week6.exe
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\bin\Debug\netcoreapp3.1\Assignment3-N01379722-week6.deps.json
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\bin\Debug\netcoreapp3.1\Assignment3-N01379722-week6.runtimeconfig.json
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\bin\Debug\netcoreapp3.1\Assignment3-N01379722-week6.runtimeconfig.dev.json
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\bin\Debug\netcoreapp3.1\Assignment3-N01379722-week6.dll
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\bin\Debug\netcoreapp3.1\Assignment3-N01379722-week6.pdb
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\obj\Debug\netcoreapp3.1\Assignment3-N01379722-week6.csprojAssemblyReference.cache
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\obj\Debug\netcoreapp3.1\Assignment3-N01379722-week6.AssemblyInfoInputs.cache
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\obj\Debug\netcoreapp3.1\Assignment3-N01379722-week6.AssemblyInfo.cs
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\obj\Debug\netcoreapp3.1\Assignment3-N01379722-week6.csproj.CoreCompileInputs.cache
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\obj\Debug\netcoreapp3.1\Assignment3-N01379722-week6.dll
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\obj\Debug\netcoreapp3.1\Assignment3-N01379722-week6.pdb
+D:\semster2\data strcture c#\Assignments\Assignment-3\Assignment3-N01379722-week6\Assignment3-N01379722-week6\obj\Debug\netcoreapp3.1\Assignment3-N01379722-week6.genruntimeconfig.cache
